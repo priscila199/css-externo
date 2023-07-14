@@ -7,6 +7,6 @@ Projeto para exemplificar o uso de CSS externo usando HTML e CSS.
 
 [<img src="./resultado2.jpg" alt="CSS externo usando HTML e CSS">](https://priscila199.github.io/css-externo/index2.html)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
